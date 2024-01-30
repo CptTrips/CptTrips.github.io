@@ -28,7 +28,7 @@
             </div>
 
             <nav>
-                <a href="{{ site.baseurl }}">Home</a>
+                <a href="{{ site.baseurl }}/">Home</a>
               {% for headline in site.headlines %}
                 <a href="{{ site.baseurl }}{{ headline.url }}">{% if headline.headline_title %}{{ headline.headline_title }}{% else %}{{headline.title}}{% endif %}</a>
               {% endfor %}
