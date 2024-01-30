@@ -87,7 +87,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-include: ['_pages']
+#include: ['_pages']
 
 paginate: 6
 paginate_path: /page:num/
@@ -100,3 +100,6 @@ exclude:
   - README.md
   - CNAME
 
+collections:
+  headlines:
+    output: true

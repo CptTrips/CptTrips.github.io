@@ -28,11 +28,10 @@
             </div>
 
             <nav>
-              <a href="{{ site.baseurl }}/">Home</a>
-              <a href="{{ site.baseurl }}/getting-started">Getting Started</a>
-              <a href="{{ site.baseurl }}/search">Search</a>
-              <a href="{{ site.baseurl }}/about">About</a>
-              <a href="{{ site.baseurl }}/archive">Archive</a>
+                <a href="{{ site.baseurl }}">Home</a>
+              {% for headline in site.headlines %}
+                <a href="{{ site.baseurl }}{{ headline.url }}">{% if headline.headline_title %}{{ headline.headline_title }}{% else %}{{headline.title}}{% endif %}</a>
+              {% endfor %}
             </nav>
           </header>
         </div>
