@@ -64,7 +64,8 @@ I hope to post some thoughts here (none of them particularly novel) to get them 
 ### Cycling
 Various adventures with camping equipment strapped to my bike.
 Kielder Forest and the North Pennines were particularly fun.
-_Pictures of/from my bike go here_
+
+<img src="{{ site.baseurl }}/images/north-pennines-bike.jpg" style="display:block; width: 90%" alt="My bicycle up a hill"/>
 
 
 ## What's Next
