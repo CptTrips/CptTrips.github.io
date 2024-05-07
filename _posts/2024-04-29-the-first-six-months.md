@@ -9,7 +9,7 @@ This post is a review of how that's gone, what I've been up to and where I would
 ## What I've Been Doing
 
 ### Vulkan
-Graphics Programming is the #1 career choice for me right now, so naturally I am learn Vulkan.
+Graphics Programming is the #1 career choice for me right now, so naturally I am learning Vulkan.
 I had followed [OpenGL Tutorial](http://www.opengl-tutorial.org/) and [Vulkan Tutorial](https://vulkan-tutorial.com/) already some years ago but coming back to my repo for the latter I was quite paralysed by the complexity.
 There had obviously been a lot of re-typing example code verbatim and not enough understanding.
 
