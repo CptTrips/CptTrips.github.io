@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  The First Six Months
+title:  New Chapter
 categories: [blog,]
 ---
-Last October I quit my job to explore new career options.
+Last October I left my job to explore the exciting developments in Machine Learning and Computer Graphics, learn, acquire new skills and hopefully persuade someone to let me work on challenging and interesting problems.
 This post is a review of how that's gone, what I've been up to and where I would like to go from here.
 
 ## What I've Been Doing
 
 ### Vulkan
 Graphics Programming is the #1 career choice for me right now, so naturally I am learning Vulkan.
-I had followed [OpenGL Tutorial](http://www.opengl-tutorial.org/) and [Vulkan Tutorial](https://vulkan-tutorial.com/) already some years ago but coming back to my repo for the latter I was quite paralysed by the complexity.
+I had followed [OpenGL Tutorial](http://www.opengl-tutorial.org/) and [Vulkan Tutorial](https://vulkan-tutorial.com/) already some years ago but coming back to my repo for the latter I was quite paralysed by the complexity packed into a single source file.
 There had obviously been a lot of re-typing example code verbatim and not enough understanding.
 
 This time around I have taken the approach of writing a wrapper as I develop simple apps that allow me to tear off comprehendible chunks.
